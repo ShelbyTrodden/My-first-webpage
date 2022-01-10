@@ -2,14 +2,13 @@
 
 #### By _**{List of contributors}**_
 
-#### _{Brief description of application}_
+#### My First Webpage
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* HTML
+* CSS
+
 
 ## Description
 
